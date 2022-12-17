@@ -1,0 +1,42 @@
+[
+    {
+        "batchNo": 11,
+        "batchStatus": "active",
+        "batchRef": "May_Batch_File",
+        "batchDate": "27th May, 2021",
+        "accountHolderName": "Raj Shrivastav",
+        "accountNo": 132456789,
+        "product": "car",
+        "amount": 45164,
+        "overDueAmount": 1500,
+        "totalAmount": 46664,
+        "overDueDays": 180,
+        "status": "filed",
+        "policeStation": "Aarey, Mumbai",
+        "statementByTVS": "Done",
+        "statementByBorrower": "Done",
+        "whatsappStatus": "delivered",
+        "emailStatus": "undelivered",
+        "FIRCopyLink": "imageUrl"
+    },
+    {
+        "batchNo": 11,
+        "batchStatus": "active",
+        "batchRef": "May_Batch_File",
+        "batchDate": "27th May, 2021",
+        "accountHolderName": "Raj Shrivastav",
+        "accountNo": 132456789,
+        "product": "car",
+        "amount": 45164,
+        "overDueAmount": 1500,
+        "totalAmount": 46664,
+        "overDueDays": 180,
+        "status": "not filed",
+        "policeStation": "Aarey, Mumbai",
+        "statementByTVS": "Pending",
+        "statementByBorrower": "Pending",
+        "whatsappStatus": "undelivered",
+        "emailStatus": "undelivered",
+        "FIRCopyLink": "imageUrl"
+    }
+]

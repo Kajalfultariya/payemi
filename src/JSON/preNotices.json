@@ -1,0 +1,82 @@
+[
+    {
+        "batchNo": 11,
+        "batchStatus": "active",
+        "batchRef": "May_Batch_File",
+        "batchDate": "27th May, 2021",
+        "accountHolderName": "Raj Shrivastav",
+        "accountNo": 132456789,
+        "product": "car",
+        "amount": 45164,
+        "overDueAmount": 1500,
+        "totalAmount": 46664,
+        "overDueDays": 180,
+        "noticeType": "138 Notice",
+        "noticeDeliveredStatus": [
+            {
+                "channel": "postal",
+                "status": "not dispatched",
+                "response": "response recieved",
+                "responseLink": "https://random.url"
+            },
+            {
+                "channel": "whatsapp",
+                "status": "delivered",
+                "response": "NA",
+                "responseLink": ""
+            },
+            {
+                "channel": "mail",
+                "status": "delivered",
+                "response": "no response",
+                "responseLink": ""
+            },
+            {
+                "channel": "sms",
+                "status": "not delivered",
+                "response": "not on whatsapp",
+                "responseLink": ""
+            }
+        ]
+    },
+    {
+        "batchNo": 11,
+        "batchStatus": "active",
+        "batchRef": "May_Batch_File",
+        "batchDate": "27th May, 2021",
+        "accountHolderName": "Abhi Soni",
+        "accountNo": 132456789,
+        "product": "car",
+        "amount": 45164,
+        "overDueAmount": 1500,
+        "totalAmount": 46664,
+        "overDueDays": 150,
+        "noticeType": "131 Notice",
+        "noticeDeliveredStatus": [
+            {
+                "channel": "postal",
+                "status": "In transit 1268451879",
+                "response": "NA",
+                "responseLink": ""
+            },
+            {
+                "channel": "whatsapp",
+                "status": "delivered",
+                "response": "NA",
+                "responseLink": ""
+            },
+            {
+                "channel": "mail",
+                "status": "delivered",
+                "response": "no response",
+                "responseLink": ""
+            },
+            {
+                "channel": "sms",
+                "status": "not delivered",
+                "response": "not on whatsapp",
+                "responseLink": ""
+            }
+        ]
+    }
+]

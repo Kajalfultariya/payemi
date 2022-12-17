@@ -1,0 +1,16 @@
+[
+    {
+        "batchNo": 5,
+        "batchStatus": "active",
+        "batchRef": "May_Batch_File",
+        "batchDate": "27th May, 2021",
+        "totalCases": 8266,
+        "caseType": "Section 138",
+        "caseStation": "Ahmedabad",
+        "casesAssigned": 5266,
+        "caseNotFiled": 200,
+        "casesFirstHearing": 350,
+        "casesInProgress": 400,
+        "casesClosed": 100,
+    }
+]

@@ -1,0 +1,86 @@
+[{
+    "batchNo": 13,
+    "batchStatus": "active",
+    "batchRef": "May_Batch_File",
+    "batchDate": "27th May, 2021",
+    "totalNotices": 89363,
+    "products": ["cars","tractors"],
+    "preBatchData":  {
+            "all": {
+                "postal": 65, 
+                "whatsapp": 23,
+                "email": 59,
+                "sms": 95
+            },
+            "cars": {
+                "postal": 85,
+                "whatsapp": 59,
+                "email": 49,
+                "sms": 38
+            },
+            "tractors": {
+                "postal": 95,
+                "whatsapp": 59,
+                "email": 50,
+                "sms": 70
+            }
+        }  
+},
+{
+    "batchNo": 15,
+    "batchStatus": "active",
+    "batchRef": "May_Batch_File",
+    "batchDate": "27th May, 2021",
+    "totalNotices": 78563,
+    "products": ["cars","tractors"],
+    "preBatchData":  {
+            "all": {
+                "postal": 95, 
+                "whatsapp": 12,
+                "email": 45,
+                "sms": 95
+            },
+            "cars": {
+                "postal": 85,
+                "whatsapp": 59,
+                "email": 49,
+                "sms": 38
+            },
+            "tractors": {
+                "postal": 95,
+                "whatsapp": 59,
+                "email": 50,
+                "sms": 70
+            }
+        }  
+},
+{
+    "batchNo": 67,
+    "batchStatus": "active",
+    "batchRef": "May_Batch_File",
+    "batchDate": "27th May, 2021",
+    "totalNotices": 89363,
+    "products": ["cars","tractors"],
+    "preBatchData":  {
+            "all": {
+                "postal": 78, 
+                "whatsapp": 23,
+                "email": 39,
+                "sms": 75
+            },
+            "cars": {
+                "postal": 85,
+                "whatsapp": 59,
+                "email": 49,
+                "sms": 38
+            },
+            "tractors": {
+                "postal": 95,
+                "whatsapp": 59,
+                "email": 50,
+                "sms": 70
+            }
+        }  
+}
+
+]
